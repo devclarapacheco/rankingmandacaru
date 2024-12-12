@@ -1,6 +1,6 @@
 // Esconde o texto inicialmente
 document.addEventListener("DOMContentLoaded", function() {
-    var text = document.getElementById("quinzenal11-text");
+    var text = document.getElementById("quinzenal12-text");
     text.style.display = "none";
 });
 
